@@ -1,0 +1,7 @@
+lightning[pytorch-extra]
+torch
+torchvision
+einops
+transformers
+datasets
+tqdm 
